@@ -1,1 +1,18 @@
-# -
+# RobotArm
+
+
+机械臂V2
+
+连接引脚：
+
+PA0-PA3接入4个电位器
+
+PB4，PB5，PB0，PB1接入4个舵机
+
+NRF24L01引脚：PA5（SCK），PA6（MISO），PA7（MOSI），PA12（CE），PA4（CSN）
+
+PA9，PA10作为串口通信引脚
+
+OLED引脚：PB8（SCL），PB9（SDA）
+
+PC15按键引脚
